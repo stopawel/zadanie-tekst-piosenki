@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Kavivanar|Source+Sans+Pro');
+
+body {
+  padding: 0;
+  margin: 0; 
+}
+
+.song-text{
+	background-color: #242526;
+	display: flex;
+	justify-content: center;
+	
+	div {
+		background-color: rgba(71, 73, 75, 0.4);
+		color: #fff;
+		margin: 30px;
+		padding: 20px 30px;
+		border-radius: 5px;
+		box-shadow: 5px 5px 5px #000;
+	}
+	h1, h2{
+		font-family: 'Source Sans Pro', sans-serif;
+		text-align: center;
+		text-shadow: 3px 3px 3px #000;
+	}
+	ul{
+		padding: 0;
+	}
+	li {
+		font-family: 'Kavivanar', cursive;
+		list-style-type: none;
+	}
+}
