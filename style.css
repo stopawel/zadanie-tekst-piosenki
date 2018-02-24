@@ -4,12 +4,12 @@ body {
   margin: 0; }
 
 .song-text {
-  background-color: #ff0;
+  background-color: #242526;
   display: flex;
   justify-content: center; }
   .song-text div {
     background-color: rgba(71, 73, 75, 0.4);
-    color: #ff5;
+    color: #fff;
     margin: 30px;
     padding: 20px 30px;
     border-radius: 5px;
